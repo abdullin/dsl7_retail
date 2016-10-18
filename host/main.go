@@ -9,9 +9,9 @@ import (
 	"github.com/abdullin/omni/core/env"
 	"github.com/abdullin/omni/core/hosting"
 
-	"github.com/abdullin/dsl7/account"
-	"github.com/abdullin/dsl7/product"
-	"github.com/abdullin/dsl7/user"
+	"github.com/abdullin/dsl7_retail/account"
+	"github.com/abdullin/dsl7_retail/product"
+	"github.com/abdullin/dsl7_retail/user"
 
 	"github.com/op/go-logging"
 )

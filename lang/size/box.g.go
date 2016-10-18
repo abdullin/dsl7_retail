@@ -1,6 +1,6 @@
 package size
 
-import "github.com/abdullin/dsl7/lang/size"
+import "github.com/abdullin/dsl7_retail/lang/size"
 
 // abdullin: generated from DSLv7
 

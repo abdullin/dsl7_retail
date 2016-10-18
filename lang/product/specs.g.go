@@ -1,6 +1,6 @@
 package product
 
-import "github.com/abdullin/dsl7/lang/product"
+import "github.com/abdullin/dsl7_retail/lang/product"
 
 // abdullin: generated from DSLv7
 

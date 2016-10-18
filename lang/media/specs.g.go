@@ -1,6 +1,6 @@
 package media
 
-import "github.com/abdullin/dsl7/lang/media"
+import "github.com/abdullin/dsl7_retail/lang/media"
 
 // abdullin: generated from DSLv7
 

@@ -1,7 +1,7 @@
 package account
 
 import (
-	"github.com/abdullin/dsl7/lang/author"
+	"github.com/abdullin/dsl7_retail/lang/author"
 	"github.com/abdullin/omni/core/api"
 	"github.com/abdullin/omni/core/env"
 )

@@ -1,6 +1,6 @@
 package kit
 
-import "github.com/abdullin/dsl7/lang/kit"
+import "github.com/abdullin/dsl7_retail/lang/kit"
 
 // abdullin: generated from DSLv7
 

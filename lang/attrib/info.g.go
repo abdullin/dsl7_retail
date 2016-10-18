@@ -1,6 +1,6 @@
 package attrib
 
-import "github.com/abdullin/dsl7/lang/attrib"
+import "github.com/abdullin/dsl7_retail/lang/attrib"
 
 // abdullin: generated from DSLv7
 

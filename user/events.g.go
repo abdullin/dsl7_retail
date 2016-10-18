@@ -1,6 +1,6 @@
 package user
 
-import "github.com/abdullin/dsl7/lang/author"
+import "github.com/abdullin/dsl7_retail/lang/author"
 
 // abdullin: generated from DSLv7
 

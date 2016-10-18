@@ -1,6 +1,6 @@
 package weight
 
-import "github.com/abdullin/dsl7/lang/weight"
+import "github.com/abdullin/dsl7_retail/lang/weight"
 
 // abdullin: generated from DSLv7
 

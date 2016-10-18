@@ -1,11 +1,11 @@
 package product
 
 import (
-	"github.com/abdullin/dsl7/lang/media"
-	"github.com/abdullin/dsl7/lang/product"
-	"github.com/abdullin/dsl7/lang/size"
-	"github.com/abdullin/dsl7/lang/tag"
-	"github.com/abdullin/dsl7/lang/weight"
+	"github.com/abdullin/dsl7_retail/lang/media"
+	"github.com/abdullin/dsl7_retail/lang/product"
+	"github.com/abdullin/dsl7_retail/lang/size"
+	"github.com/abdullin/dsl7_retail/lang/tag"
+	"github.com/abdullin/dsl7_retail/lang/weight"
 )
 
 // abdullin: generated from DSLv7

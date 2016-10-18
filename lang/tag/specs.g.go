@@ -1,6 +1,6 @@
 package tag
 
-import "github.com/abdullin/dsl7/lang/tag"
+import "github.com/abdullin/dsl7_retail/lang/tag"
 
 // abdullin: generated from DSLv7
 
